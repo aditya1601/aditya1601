@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 📝 I regularly write articles on [aditya1601.github.com/blog](aditya1601.github.com/blog)
+- 📝 I regularly write articles on [aditya1601.github.io/blog](https://aditya1601.github.io/blog/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning in NLP and Image domain**
 
