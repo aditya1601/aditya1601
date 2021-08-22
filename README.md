@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 📝 I regularly write articles on [aditya1601.github.io/blog](https://aditya1601.github.io/blog/)
-
 - 💬 Ask me about **Machine Learning, Deep Learning in NLP and Image domain**
 
 - 📫 How to reach me **aditya1601@outlook.com**
