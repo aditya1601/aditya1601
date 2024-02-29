@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1601&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1601" /> </p>
 
-- 🔭 I’m currently working at **Tata Consultancy Services**
+- 🔭 I’m currently working at **Agoda (Booking Holdings)**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Machine Learning, Deep Learning in NLP and Image domain**
+- 💬 Ask me about **Machine Learning, Big Data, Spark and PPC Marketing**
 
 - 📫 How to reach me **aditya1601@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ironfistyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ironfistyo" height="30" width="40" /></a>
+<a href="https://twitter.com/aditya1601_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ironfistyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya1601" height="30" width="40" /></a>
 <a href="https://kaggle.com/aditya1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya1601" height="30" width="40" /></a>
 </p>
