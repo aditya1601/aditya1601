@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Agoda (Booking Holdings)**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 Ask me about **Machine Learning, Big Data, Spark and PPC Marketing**
 
